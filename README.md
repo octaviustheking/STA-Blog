@@ -42,7 +42,7 @@
         
         <p>We are trapped. The Kingies are coming from the north ,west, south, and east. We are doomed. Sniff, sniff. -Dingie</p>
         
-        <h1 id="2nd-theme")>Second Theme: STAIA(PeAtSa)</h1>
+        <h1 id="2nd-theme">Second Theme: STAIA(PeAtSa)</h1>
         
         <h2 id="5th">5th post!</h2>
         <h6>7/20/20</h6>
